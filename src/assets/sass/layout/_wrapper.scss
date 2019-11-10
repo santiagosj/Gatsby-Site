@@ -7,6 +7,12 @@
 /* Wrapper (main) */
 
 	#wrapper {
+		#intro{
+			.inner{
+				background: _palette(bg2)
+			}
+		}
+		
 		#sidebar + & {
 			margin-left: _size(sidebar-width);
 

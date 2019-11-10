@@ -28,6 +28,9 @@
 		html {
 			box-sizing: border-box;
 		}
+		html::-webkit-scrollbar{
+			display: none;
+		}
 
 		*, *:before, *:after {
 			box-sizing: inherit;

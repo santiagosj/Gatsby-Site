@@ -1,0 +1,26 @@
+[
+    {
+        "title":"Nuestra visión",
+        "description":"Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolo mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctorsit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et elit.Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.",
+        "desprev":"Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolo mattis sagittis...",
+        "slug":"generic-1",
+        "image":"./images/plano.jpg",
+        "imggne":"./images/leveluno.jpg"
+    },
+    {
+        "title":"Cómo diseñamos",
+        "description":"Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolo mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctorsit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et elit.Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.",
+        "desprev":"Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolo mattis sagittis...",
+        "slug":"generic-2",
+        "image":"./images/casa.jpg",
+        "imggne":"./images/leveldos.jpg"
+    },
+    {
+        "title":"Cómo construimos",
+        "description":"Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolo mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctorsit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et elit.Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.",
+        "desprev":"Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolo mattis sagittis...",
+        "slug":"generic-3",
+        "image":"./images/edificio.jpg",
+        "imggne":"./images/leveltres.jpg"
+    }
+]

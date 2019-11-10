@@ -7,10 +7,10 @@ export class Sidebar extends Component {
     super(props);
     this.state = {
       tabs: [
-        { content: 'Welcome', href: 'intro' },
-        { content: 'Who we are', href: 'one' },
-        { content: 'What we do', href: 'two' },
-        { content: 'Get in touch', href: 'three' },
+        { content: 'Bienvenidos', href: 'intro' },
+        { content: 'Quienes Somos', href: 'one' },
+        { content: 'Lo que hacemos', href: 'two' },
+        { content: 'Contacto', href: 'three' },
       ],
     };
   }
