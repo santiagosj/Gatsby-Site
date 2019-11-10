@@ -33,7 +33,7 @@ const SecondPage = ({data:{servicesJson:service}}) => {
          imageData={imgData}
          description={description}
        />
-  </Layout>
+    </Layout>
   )
 }
  
